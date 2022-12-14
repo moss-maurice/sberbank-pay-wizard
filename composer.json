@@ -1,0 +1,16 @@
+{
+    "name": "mmaurice/sberbank-pay-wizard",
+    "description": "Sberbank Pay installer wizard",
+    "type": "project",
+    "license": "GPL-3.0-only",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [{
+        "name": "Moss Maurice",
+        "email": "kreexus@yandex.ru",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=5.6"
+    }
+}
